@@ -2,4 +2,4 @@
 
 python tips and tricks
 
-versione python3
+python version 3
