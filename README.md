@@ -2,4 +2,4 @@
 
 python tips and tricks
 
-python version 3
+`python version >= 3`
